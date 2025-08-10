@@ -26,7 +26,7 @@ The analysis uses the `superstore.csv` dataset and provides actionable business 
 - **Most Profitable Sub-Category:** Copiers.
 - **Shipping Preference:** Standard Class accounts for over half of all orders.
 
-## 📊 Dashboard Features - Q2
+## Dashboard Features - Q2
 - **KPI Cards** for:
   - Total Profit: **55.28K**
   - Total Quantity: **7,918**
@@ -49,7 +49,7 @@ The analysis uses the `superstore.csv` dataset and provides actionable business 
 
 ---
 
-## 📊 Dashboard Features - Q3
+##  Dashboard Features - Q3
 - **KPI Cards** for:
   - Total Profit: **72.47K**
   - Total Quantity: **11K**
@@ -72,7 +72,7 @@ The analysis uses the `superstore.csv` dataset and provides actionable business 
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features - Q4
 - **KPI Cards** for:
   - Total Profit: **110.62K**
   - Total Quantity: **14K**
